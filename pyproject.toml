@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "givememoney-pastaga"
+name = "givememoneypastaga"
 version = "0.1.0"
 description = ""
 authors = ["Flo"]

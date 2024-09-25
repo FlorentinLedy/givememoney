@@ -1,5 +1,5 @@
 import unittest
-from give_me_money_pastaga.main import give_me_money_pastaga
+from givememoneypastaga.main import give_me_money_pastaga
 
 class MyTestCase(unittest.TestCase):
     def test_something(self):
